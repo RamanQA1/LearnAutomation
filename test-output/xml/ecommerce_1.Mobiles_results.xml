@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test-Chrome"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.232">
+  <properties />
+  
+  
+            <testcase name="replaceOrder" time="0.014" classname="ecommerce_1.Mobiles" />
+                <testcase name="orderPlaced" time="0.021" classname="ecommerce_1.Mobiles" />
+                <testcase name="returnOrder" time="0.019" classname="ecommerce_1.Mobiles" />
+                <testcase name="addShippingDetails" time="0.013" classname="ecommerce_1.Mobiles" />
+                <testcase name="Singup" time="0.031" classname="ecommerce_1.Mobiles" />
+                <testcase name="addToCart" time="0.018" classname="ecommerce_1.Mobiles" />
+                <testcase name="makePayment" time="0.005" classname="ecommerce_1.Mobiles" />
+                <testcase name="signIn" time="0.033" classname="ecommerce_1.Mobiles" />
+                <testcase name="apple14ProMax" time="0.036" classname="ecommerce_1.Mobiles" />
+                <testcase name="custumerFeedback" time="0.011" classname="ecommerce_1.Mobiles" />
+                <testcase name="searchProducts" time="0.031" classname="ecommerce_1.Mobiles" />
+      
+</testsuite>
